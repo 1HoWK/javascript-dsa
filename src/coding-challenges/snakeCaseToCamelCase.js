@@ -1,5 +1,4 @@
 var output = function (s){
-    let s = "geeks_For_Geeks";
     let strings = s.split("_");
     strings[0].charAt(0).toLowerCase();
     let camelCase = strings[0];
