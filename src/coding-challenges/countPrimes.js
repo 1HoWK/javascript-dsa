@@ -1,3 +1,0 @@
-var countPrimes = function(n) {
-
-};
